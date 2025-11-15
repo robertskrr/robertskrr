@@ -6,8 +6,7 @@
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Robert+Esquerre+Valiente;Backend+Developer;Sevilla%2C+Espa%C3%B1a)](https://git.io/typing-svg)
 
-<div align="center">
-<img src='https://media1.tenor.com/m/rEd35Rfq3m4AAAAC/cat-work-in-progress.gif' alt="gatete" width="20%" align="left">
+<div align="left">
 
 `````xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -28,8 +27,6 @@
     </aficiones>
 </developer>
 `````
-
-<div style="clear: both;"></div>
 
 </div>
 
