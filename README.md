@@ -1,9 +1,37 @@
 <div align="center">
 <img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%"><img src='https://media.tenor.com/0gS7uLRfLGgAAAAi/nahidwin.gif' alt="intro" width="10%"><img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%">
   </div>
+  
   <h2 align="center"> 
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Robert+Esquerre+Valiente;Backend+Developer;Sevilla%2C+Espa%C3%B1a)](https://git.io/typing-svg)
+
+<div align="center">
+<img src='https://media1.tenor.com/m/rEd35Rfq3m4AAAAC/cat-work-in-progress.gif' alt="gatete" width="20%" align="left">
+
+`````xml
+<?xml version="1.0" encoding="UTF-8"?>
+<developer>
+    <nombre>Robert Esquerre Valiente</nombre>
+    <edad>24</edad>
+    
+    <estudios>
+        <estudio>CFGS Iluminación, Captación y Tratamiento de la Imagen</estudio>
+        <estudio>CFGS Realización de Proyectos Audiovisuales y Espectáculos</estudio>
+        <estudio>CFGS Desarrollo de Aplicaciones Multiplataforma</estudio>
+    </estudios>
+    
+    <aficiones>
+        <aficion>Fotografía</aficion>
+		<aficion>Videojuegos</aficion>
+		<aficion>Deporte</aficion>
+    </aficiones>
+</developer>
+`````
+
+<div style="clear: both;"></div>
+
+</div>
 
 <div align="center">
 	
