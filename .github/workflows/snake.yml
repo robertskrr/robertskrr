@@ -17,10 +17,11 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-svg
         with:
-          github_user_name: robertskrr
-          # Genera los archivos en el directorio temporal 'dist'
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: robertskrr # ¡Tu usuario!
+          # CORRECCIÓN: Usa 'outputs' en lugar de 'gif_out_path' y 'svg_out_path'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
