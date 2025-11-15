@@ -8,7 +8,7 @@
 <img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%"><img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%">
 
 ## 🐍 Snake de contribuciones 🐍
-![Snake animation](https://raw.githubusercontent.com/robertskrr/robertskrr/output/github-contribution-grid-snake.svg)
+
 
 ## 🕹️ Tecnologías y herramientas 🕹️
 
