@@ -6,6 +6,11 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# --- AÑADE ESTAS LÍNEAS ---
+permissions:
+  contents: write
+# -------------------------
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,12 +18,11 @@ jobs:
       # 1. Checkout (obtener el código)
       - uses: actions/checkout@v4 
 
-      # Usa la versión v3 sin el subdirectorio /svg
+      # 2. Genera el snake
       - uses: Platane/snk@v3
         id: snake-svg
         with:
-          github_user_name: robertskrr # ¡Tu usuario!
-          # CORRECCIÓN: Usa 'outputs' en lugar de 'gif_out_path' y 'svg_out_path'
+          github_user_name: robertskrr
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
