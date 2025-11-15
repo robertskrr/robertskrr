@@ -9,6 +9,7 @@
 
 ## 🐍 Snake de contribuciones 🐍
 
+![Snake animation](https://raw.githubusercontent.com/robertskrr/robertskrr/output/github-contribution-grid-snake.svg)
 
 ## 🕹️ Tecnologías y herramientas 🕹️
 
