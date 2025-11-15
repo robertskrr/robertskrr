@@ -15,16 +15,10 @@
     <edad>24</edad>
     
     <estudios>
-        <estudio>CFGS Iluminación, Captación y Tratamiento de la Imagen</estudio>
-        <estudio>CFGS Realización de Proyectos Audiovisuales y Espectáculos</estudio>
+        <estudio>CFGS Iluminación, Captación y Tto de la Imagen</estudio>
+        <estudio>CFGS Realización de Proy. Audiovisuales y Espectáculos</estudio>
         <estudio>CFGS Desarrollo de Aplicaciones Multiplataforma</estudio>
     </estudios>
-    
-    <aficiones>
-        <aficion>Fotografía</aficion>
-		<aficion>Videojuegos</aficion>
-		<aficion>Deporte</aficion>
-    </aficiones>
 </developer>
 `````
 
