@@ -1,15 +1,17 @@
-<h1 align="center">
-<img src='https://media.tenor.com/0gS7uLRfLGgAAAAi/nahidwin.gif' alt="intro" width="10%">
-  
+<div align="center">
+<img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%"><img src='https://media.tenor.com/0gS7uLRfLGgAAAAi/nahidwin.gif' alt="intro" width="10%"><img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%">
+  </div>
   <h2 align="center"> 
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Robert+Esquerre+Valiente;Backend+Developer;Sevilla%2C+Espa%C3%B1a)](https://git.io/typing-svg)
 
-<img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%"><img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%">
-
-## 🐍 Snake de contribuciones 🐍
+<div align="center">
+	
+## 🐍 Contribuciones 🐍
 
 ![Snake animation](https://raw.githubusercontent.com/robertskrr/robertskrr/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## 🕹️ Tecnologías y herramientas 🕹️
 
@@ -32,12 +34,17 @@
 
 <p>
 	
+
+<div align="center">
+
 ## 📊 Mis Estadísticas de GitHub 📊
 
-| | |
-| :--- | :--- |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&theme=algolia) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertskrr&theme=algolia) |
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertskrr&langs_count=8&theme=algolia) |
-	
+<img src="https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertskrr&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertskrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertskrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="49%" />
+
 ![](https://komarev.com/ghpvc/?username=robertskrr&style=flat-square)
 
+</div>
