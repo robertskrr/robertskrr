@@ -11,6 +11,7 @@
 `````xml
 <?xml version="1.0" encoding="UTF-8"?>
 <developer>
+
     <nombre>Robert Esquerre Valiente</nombre>
     <edad>24</edad>
     
@@ -19,6 +20,7 @@
         <estudio>CFGS Realización de Proy. Audiovisuales y Espectáculos</estudio>
         <estudio>CFGS Desarrollo de Aplicaciones Multiplataforma</estudio>
     </estudios>
+
 </developer>
 `````
 
