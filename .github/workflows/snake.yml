@@ -1,32 +1,30 @@
-# GitHub Action para generar el gráfico de contribuciones con la serpiente.
-
 name: Generate Snake
 
 on:
   schedule:
     # Se ejecuta cada 6 horas
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       # 1. Checkout (obtener el código)
-      - uses: actions/checkout@v4 # Usar la versión estable v4
+      - uses: actions/checkout@v4 
 
-      # 2. Genera el snake 
-      - uses: Platane/snk/svg@v3 # Usar la versión estable v3 para el SVG
+      # Usa la versión v3 sin el subdirectorio /svg
+      - uses: Platane/snk@v3
         id: snake-svg
         with:
-          github_user_name: robertskrr 
+          github_user_name: robertskrr
           # Genera los archivos en el directorio temporal 'dist'
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # 3. Publica los cambios a la rama 'output' 
+      # 3. Publica los cambios a la rama 'output'
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4 
         with:
