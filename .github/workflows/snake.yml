@@ -2,34 +2,38 @@ name: Generate Snake
 
 on:
   schedule:
+    # Se ejecuta cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# --- AÑADE ESTAS LÍNEAS ---
 permissions:
   contents: write
+# -------------------------
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # 1. Checkout (obtener el código)
+      - uses: actions/checkout@v4 
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      # 2. Genera el snake
+      - uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: robertskrr
-          
-          # --- CORRECCIÓN DE TEMA ---
-          # Añadimos ?palette=github-dark para forzar el tema oscuro
-          gif_out_path: dist/github-contribution-grid-snake.gif?palette=github-dark
-          svg_out_path: dist/github-contribution-grid-snake.svg?palette=github-dark
-          
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v4
+          
+      # 3. Publica los cambios a la rama 'output'
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4 
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output # Rama de destino
+          build_dir: dist       # Directorio con los archivos generados
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
