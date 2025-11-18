@@ -65,13 +65,13 @@
 
 ## 📊 Mis Estadísticas de GitHub 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertskrr&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&locale=es" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=robertskrr&theme=tokyonight&hide_border=true&locale=es" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertskrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertskrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&locale=es" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertskrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="49%" />
 
-![](https://komarev.com/ghpvc/?username=robertskrr&style=flat-square)
+![](https://komarev.com/ghpvc/?username=robertskrr&style=for-the-badge&color=blueviolet)
 
 </div>
 
