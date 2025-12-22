@@ -15,7 +15,7 @@
 <developer>
 
     <nombre>Robert Esquerre Valiente</nombre>
-    <edad>24</edad>
+    <edad>25</edad>
     
     <estudios>
         <estudio>CFGS Iluminación, Captación y Tto de la Imagen</estudio>
