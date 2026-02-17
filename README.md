@@ -1,13 +1,3 @@
-<div align="center">
-<img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%"><img src='https://media.tenor.com/0gS7uLRfLGgAAAAi/nahidwin.gif' alt="intro" width="10%"><img src='https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif' alt="spiderman" width="6%">
-  </div>
-  
-  <h2 align="center"> 
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Robert+Esquerre+Valiente;Backend+Developer;Sevilla%2C+Espa%C3%B1a)](https://git.io/typing-svg)
-
-<hr> 
-
 <div align="left">
 
 `````xml
