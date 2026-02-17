@@ -28,24 +28,23 @@
 
 <div align="left">
 
-## 🕹️ Tecnologías y herramientas 🕹️
+## Tecnologías y herramientas
 
 ### Lenguajes de programación
 
 <p>
   
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,mongodb,js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,mongodb,js,html,css,cs)](https://skillicons.dev)
 
 ### Software
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,maven,pr,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,maven,postman,firebase,pr,ps)](https://skillicons.dev)
 
 <p>
 	
 ### IDES
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,androidstudio)](https://skillicons.dev)
-<img src='https://media.tenor.com/WmNdQGyg4zsAAAAj/netbeans.gif' alt="netbeans" width="4%">
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,androidstudio,idea)](https://skillicons.dev)
 
 <p>
 
@@ -53,7 +52,7 @@
 
 <div align="center">
 
-## 📊 Mis Estadísticas de GitHub 📊
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=robertskrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&locale=es" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robertskrr&theme=tokyonight&hide_border=true&locale=es" width="49%" />
