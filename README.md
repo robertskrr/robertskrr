@@ -34,7 +34,7 @@
 
 <p>
   
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,mongodb,js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mysql,py,mongodb,js,html,css,cs)](https://skillicons.dev)
 
 ### Software
 
