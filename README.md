@@ -55,7 +55,6 @@
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robertskrr&theme=tokyonight&hide_border=true&locale=es" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertskrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="49%" />
 
 ![](https://komarev.com/ghpvc/?username=robertskrr&style=for-the-badge&color=blueviolet)
 
