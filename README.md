@@ -30,15 +30,15 @@
 
 ## Tecnologías y herramientas
 
-### Lenguajes de programación
+### Lenguajes
 
 <p>
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mysql,py,mongodb,js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,ts,mongodb,js,html,css,cs,bash,bootstrap)](https://skillicons.dev)
 
 ### Software
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,maven,postman,firebase,pr,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,windows,maven,spring,kafka,angular,postman,firebase,pr,ps,ae)](https://skillicons.dev)
 
 <p>
 	
