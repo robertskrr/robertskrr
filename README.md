@@ -1,19 +1,15 @@
 <div align="left">
-
-`````xml
-<?xml version="1.0" encoding="UTF-8"?>
-<developer>
-
-    <nombre>Robert Esquerre Valiente</nombre>
-    <edad>25</edad>
-    
-    <estudios>
-		<estudio>CFGS Desarrollo de Aplicaciones Multiplataforma</estudio>
-        <estudio>CFGS Realización de Proy. Audiovisuales y Espectáculos</estudio>
- 		<estudio>CFGS Iluminación, Captación y Tto de la Imagen</estudio>
-    </estudios>
-
-</developer>
+	
+`````ts
+export interface developer() {
+	nombre: 'Robert Esquerre Valiente';
+	estudios:
+	[
+      'CFGS Desarrollo de Aplicaciones Multiplataforma',
+	  'CFGS Realización de Proy. Audiovisuales y Espectáculos',
+	  'CFGS Iluminación, Captación y Tto de la Imagen'
+	];
+}
 `````
 
 </div>
